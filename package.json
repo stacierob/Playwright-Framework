@@ -9,9 +9,12 @@
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.55.0",
+    "@types/crypto-js": "^4.2.2",
     "@types/node": "^24.4.0"
   },
   "dependencies": {
+    "crypto-js": "^4.2.0",
+    "dotenv": "^17.2.2",
     "typescript": "^5.9.2"
   }
 }
